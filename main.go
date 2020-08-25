@@ -16,7 +16,7 @@ limitations under the License.
 package main
 
 import (
-	"cmd"
+	"github.com/fumiyauehara/learn_cmd/cmd"
 )
 
 func main() {
